@@ -11,9 +11,15 @@
   font-size:14px;
   line-height:20px;
 }
+.box_1 {
+}
+.box_2 {
+}
 .image {
-  font-size:14px;
-  color:#000000;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-size:16px;
+  color:#CCCCCC;
 }
 .heading_1 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -91,4 +97,39 @@
   font-size:13px;
   color:#000000;
   text-align:left;
+}
+.h1_dummy_page {
+  font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:48px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.h2_dummy_page {
+  font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:28px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:normal;
+}
+.h3_dummy_page {
+  font-family:'HelveticaNeue-Bold', 'Helvetica Neue Bold', 'Helvetica Neue';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:normal;
+}
+.paragraph_dummy_page {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:24px;
+}
+.icon {
 }
